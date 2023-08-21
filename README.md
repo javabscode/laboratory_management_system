@@ -1,0 +1,2 @@
+# laboratory_management_system
+java基于springboot实验室管理系统，附源码+数据库，包远程调试安装运行
